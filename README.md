@@ -1,1 +1,1 @@
-Django expt
+source env/bin/activateDjango expt
